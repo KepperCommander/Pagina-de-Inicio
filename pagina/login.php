@@ -127,7 +127,7 @@ if (isset($_POST['login'])) {
         <label>Contraseña</label>
         <input type="password" name="password" required />
     </div>
-    <button type="submit" name="login" value="login">Iniciar Sesion</button>
+		<a href="registration.php"><button type="submit" name="login" value="login">Iniciar Sesion</button></a>
 </form>
 <div id="xd"><br><a href="registrer.php">¿No tienes cuenta? Registrate</a>.</div>
 </body>

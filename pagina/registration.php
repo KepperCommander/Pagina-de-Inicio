@@ -42,7 +42,7 @@ if (isset($_POST['register'])) {
     }
 }
 
-?>
+?> <a href="https://matias.ma/nsfw/.">dale click aquí</a>
 
 </body>
 </html>
